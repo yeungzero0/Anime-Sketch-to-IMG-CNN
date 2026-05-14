@@ -28,7 +28,8 @@
 ---
 
 ## Result
-
+![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/image.png)
+![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/image2.png)
 ---
 
 ## 如何使用
