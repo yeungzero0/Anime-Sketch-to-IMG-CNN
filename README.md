@@ -1,5 +1,11 @@
 # Anime-Sketch-to-IMG-CNN
 
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange)](https://scikit-learn.org/)
+[![Sentence-Transformers](https://img.shields.io/badge/BERT-embeddings-green)](https://www.sbert.net/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
+
 一個使用 **Convolutional Neural Network (CNN)** 將動漫素描（Sketch）轉換成彩色圖像的個人學習專案。
 
 ---
