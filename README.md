@@ -48,5 +48,6 @@ dataset - Ensure dataset should 60%/20%/20% (train/val/test)
 real:copy with the resized original character image (part1_imageResizeTo512png.py, copy from /dataset/newIMG/to512size)
 sketch:copy with the sketch image (part2_imageToSketch.py, copy from /dataset/newIMG/toSketch)
 ref:N/A
+---
 
 When you want to play the Sketch to IMG, run "main_runThisForTesting(SketchToImage).py"
