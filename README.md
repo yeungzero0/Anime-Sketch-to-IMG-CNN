@@ -38,7 +38,7 @@
 
 ## other 
 ![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/2.png)
-![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/3.png)
+![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/3.png)  
 ![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/4.png)
 ![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/5.png)
 ---
