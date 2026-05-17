@@ -34,7 +34,13 @@
 ![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/image.png)
 ![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/image2.png)
 ## Dataset is not enough / style not match the training data so far
-![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/not%20enough.png)
+![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/not%20enough.png)  
+
+## other 
+![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/2.png)
+![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/3.png)
+![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/4.png)
+![image](https://github.com/yeungzero0/Anime-Sketch-to-IMG-CNN/blob/main/sample_result/5.png)
 ---
 
 ## 如何使用
