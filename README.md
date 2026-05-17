@@ -61,5 +61,5 @@ sketch:copy with the sketch image (part2_imageToSketch.py, copy from /dataset/ne
 ref:N/A  
   
   
-When you want to play the Sketch to IMG, run "main_runThisForTesting(SketchToImage).py"  
+When you want to play the Sketch to IMG, run "main_runThisForTesting(SketchToImage).py" & train your own model before  
 ---
